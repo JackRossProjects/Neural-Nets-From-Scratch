@@ -5,12 +5,12 @@ Learn how to build neural nets from scratch. Simple perceptron to predict if a p
 <h2>Dataset:</h2>
 
 <center>
-![data](https://github.com/JackRossProjects/Neural-Nets-From-Scratch/blob/master/data.png)
+  ![data](https://github.com/JackRossProjects/Neural-Nets-From-Scratch/blob/master/data.png)
 </center>
 
 <br>
 <br>
 
 <center>
-![neural network](https://github.com/JackRossProjects/Neural-Nets-From-Scratch/blob/master/nn2.png)
+  ![neural network](https://github.com/JackRossProjects/Neural-Nets-From-Scratch/blob/master/nn2.png)
 </center>
