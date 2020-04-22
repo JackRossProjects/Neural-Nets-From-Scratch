@@ -1,5 +1,5 @@
 # Neural Networks from Scratch!
-Learn how to build neural nets from scratch. Simple perceptron to predict if a person has diabetes.
+Learn how to build neural nets from scratch! Simple perceptron to predict if a person has diabetes.
 <br>
 <br>
 <h2>Dataset:</h2>
