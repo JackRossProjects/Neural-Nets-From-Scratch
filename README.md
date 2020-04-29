@@ -12,3 +12,8 @@ Learn how to build neural nets from scratch! Simple perceptron to predict if a p
 <br>
 
 ![neural network](https://github.com/JackRossProjects/Neural-Nets-From-Scratch/blob/master/nn2.png)
+
+<br>
+<br>
+
+<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
